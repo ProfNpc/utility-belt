@@ -1,0 +1,1 @@
+java -jar ubelt3.jar -fsql
